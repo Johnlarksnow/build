@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b2518473.css",
+    "main.js": "/static/js/main.bf9ce276.js",
+    "static/js/787.79bd1db8.chunk.js": "/static/js/787.79bd1db8.chunk.js",
+    "static/media/shiba.png": "/static/media/shiba.c33c7f18aa8694beac51.png",
+    "static/media/blockchain.jpg": "/static/media/blockchain.0b10abeccc32b3c6c09c.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.b2518473.css.map": "/static/css/main.b2518473.css.map",
+    "main.bf9ce276.js.map": "/static/js/main.bf9ce276.js.map",
+    "787.79bd1db8.chunk.js.map": "/static/js/787.79bd1db8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2518473.css",
+    "static/js/main.bf9ce276.js"
+  ]
+}
